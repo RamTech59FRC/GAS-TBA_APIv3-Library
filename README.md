@@ -5,5 +5,5 @@ A library of all the available requests that can be pulled from The Blue Allianc
 ## Wiki
 Check out the [Wiki Page](https://github.com/RamTech59FRC/GAS-TBA_APIv3-Library/wiki) to learn what functions are available and an in depth install guide.
 
-## Contributing 
-To contribute to this library, please submit an issue detailing what you would like to see.
+## Contributing/Issues
+To contribute to this library or to report a problem, please submit an issue detailing what you would like to see added or resolved.

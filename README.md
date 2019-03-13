@@ -15,4 +15,4 @@ Please provide the following in your issue:
  * A detailed description of what is happening
  * An explanation on how to reproduce the issue
 ## Authors
-This software was created by [Kevin Bimonte](https://github.com/NCIS-LEGEND) for Team 59, RamTech.
+This software was created by [Kevin Bimonte](https://github.com/kcbimonte) for Team 59, RamTech.

@@ -16,3 +16,6 @@ Please provide the following in your issue:
  * An explanation on how to reproduce the issue
 ## Authors
 This software was created by [Kevin Bimonte](https://github.com/kcbimonte) for Team 59, RamTech.
+
+## Powered by The Blue Alliance
+This software gets its data directly from [The Blue Alliance](https://www.thebluealliance.com/). Consider checking out the site and report any data issues.
